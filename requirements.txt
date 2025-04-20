@@ -1,0 +1,9 @@
+PySide6>=6.5.0
+python-dotenv==1.0.0
+httpx>=0.24.0
+asyncio>=3.4.3
+pywin32>=300; platform_system=="Windows"
+requests==2.31.0
+tk==0.1.0
+pillow==10.0.0
+pygments==2.16.0 
